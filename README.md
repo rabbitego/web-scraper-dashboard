@@ -22,7 +22,7 @@ A Python web scraper that collects headlines from Hacker News, analyzes the data
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/web-scraper-dashboard.git
+git clone https://github.com/rabbitego/web-scraper-dashboard.git
 cd web-scraper-dashboard
 
 # Create virtual environment
